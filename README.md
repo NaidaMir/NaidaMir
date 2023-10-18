@@ -32,10 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <hr>
-<b> :fire: My Stats : </b> <br>
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaidaMir&theme=dark)](https://git.io/streak-stats)
 
 
 <br>
